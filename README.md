@@ -6,8 +6,8 @@
 
 Software Engineering student at **UNIPÊ** · Linux · Automation · Cloud
 
-<a href="https://www.linkedin.com/in/marllonlran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/marllonlran?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/eumarllonlr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/eumarllonlr?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
