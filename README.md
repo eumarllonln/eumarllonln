@@ -2,7 +2,7 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Aspirante+a+Engenheiro+DevOps;Futuro+DevSecOps;Automatizar+%C2%B7+Entregar+%C2%B7+Proteger" alt="Aspirante a Engenheiro DevOps · Futuro DevSecOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Rumo+ao+DevOps;Futuro+DevSecOps;Automatizar+%C2%B7+Entregar+%C2%B7+Proteger" alt="Rumo ao DevOps · Futuro DevSecOps" />
 
 Estudante de Engenharia de Software na **UNIPÊ** · Linux · Automação · Nuvem
 
